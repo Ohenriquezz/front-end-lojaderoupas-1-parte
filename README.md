@@ -1,14 +1,4 @@
-<h1 align="center" >
-  Blue Modas
-</h1>
 
-<p align="center">
-  <a href='#home'>Blue Modas </a>|
-  <a href='#functionalities'>Funcionalidades </a>|
-  <a href='#tecnologies'>Tecnologias </a>|
-  <a href='#layout'>Layout </a>|
-  <a href="#como">Como usar </a>
-</p>
 
 ## <p id='home'>🏪 Blue Modas </p>
 A Blue Modas é uma plataforma de e-commerce com o objetivo de efetuar vendas on-line para uma loja de roupas.
@@ -22,14 +12,6 @@ A Blue Modas é uma plataforma de e-commerce com o objetivo de efetuar vendas on
 4. Identificação para finalizar compra.
 5. Visualizar pedido de compra realizada.
 6. Visão administrador, para cadastro e listagem de produtos.
-
-## <p id='tecnologies'>💻 Tecnologias </p>
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
--  [Angular v11.2.8](https://angular.io/)
--  [TypeScript v4.1.5](https://www.typescriptlang.org/)
--  [Node.js v14.15.0](https://nodejs.org/en/)
--  [Bootstrap v5.0](https://getbootstrap.com/)
 
 ## <p id='layout'>🎨 Layout ? </p>
 Abaixo é apresentadas as telas do e-commerce.
@@ -51,21 +33,4 @@ Abaixo é apresentadas as telas do e-commerce.
 
 9. Cadastro de produtos
 ![image](https://user-images.githubusercontent.com/55838972/114640738-b62b7800-9c9e-11eb-9503-2aaf44bb1cc2.png)
-
-## <p id='como'>💻 Como usar </p>
-Para clonar e executar este aplicativo, na linha de comando:
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/diegoluques/blue-modas-front-end
-
-# Vá para o repositório
-$ cd blue-modas-front-end
-
-# Instalar dependências
-$ npm install
-
-# Iniciar Expo
-$ ng serve
-```
 
